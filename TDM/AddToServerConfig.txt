@@ -1,0 +1,65 @@
+class Missions
+{
+	class TestMission01
+	{
+		template = AGMpvp.stratis;
+		difficulty = "veteran";
+		class Params {};
+	};
+	class TestMission02
+	{
+		template = Airport.Malden;
+		difficulty = "veteran";
+		class Params {};
+	};
+	class TestMission03
+	{
+		template = Arudy.Malden;
+		difficulty = "veteran";
+		class Params {};
+	};
+	class TestMission04
+	{
+		template = Island.Malden;
+		difficulty = "veteran";
+		class Params {};
+	};	
+	
+	class TestMission05
+	{
+		template = KatkoulaPVP.Tanoa;
+		difficulty = "veteran";
+		class Params {};
+	};
+	class TestMission06
+	{
+		template = kfrPVP.stratis;
+		difficulty = "veteran";
+		class Params {};
+	};
+	class TestMission07
+	{
+		template = NicolettePVP.Tanoa;
+		difficulty = "veteran";
+		class Params {};
+	};
+	class TestMission08
+	{
+		template = OumerePVP.Tanoa;
+		difficulty = "veteran";
+		class Params {};
+	};
+	class TestMission09
+	{
+		template = PessagnePVP.Malden;
+		difficulty = "veteran";
+		class Params {};
+	};
+	class TestMission10
+	{
+		template = SABpvp.stratis;
+		difficulty = "veteran";
+		class Params {};
+	};
+
+};
